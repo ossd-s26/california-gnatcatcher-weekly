@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! My name is Yuxuan Qin and I'm a senior majoring Computer Science and Data Science at NYU. I'm taking this course because I want to contribute to open source projects.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I enjoy drawing, birding, volunteering in my free time. My profile picture is a bird called California Gnatcatcher. It is a tiny bird with a tiny range, found only in the coastal sage scrub of Southern California and Baja California.
