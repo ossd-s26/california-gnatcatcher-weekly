@@ -26,3 +26,5 @@ Replace the first row with your own contribution.
 | Feb 15    |  [Contribution](https://en.wikipedia.org/w/index.php?title=Die_H%C3%B6lle_muss_warten&oldid=1338605121)   | Wikipedia edit    | Added reliable citations for the “Charts” section of Die Hölle muss warten, sourcing peak positions from official German charts (Offizielle Deutsche Charts) and Austrian/Swiss chart databases (austriancharts.at, hitparade.ch).      | 
 | Feb 23    |[Contribution](https://www.openstreetmap.org/changeset/178957603)     | OpenStreetMap Edit   | I updated some outdated stores that are no longer open in Jersey City     |
 | Mar 1 | [Contribution](https://www.openstreetmap.org/changeset/179216184#map=18/40.723458/-74.036672) | OpenStreetMap Edit | I added orangetheory fitness into Jersey City |
+| April 4th | [Contribution](https://github.com/AppFlowy-IO/AppFlowy/issues/8651#issuecomment-4196485888) | GitHub Comment | I made a comment on AppFlowy, to help the maintainers triage the issue |
+
