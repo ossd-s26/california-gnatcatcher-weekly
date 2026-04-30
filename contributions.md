@@ -27,4 +27,5 @@ Replace the first row with your own contribution.
 | Feb 23    |[Contribution](https://www.openstreetmap.org/changeset/178957603)     | OpenStreetMap Edit   | I updated some outdated stores that are no longer open in Jersey City     |
 | Mar 1 | [Contribution](https://www.openstreetmap.org/changeset/179216184#map=18/40.723458/-74.036672) | OpenStreetMap Edit | I added orangetheory fitness into Jersey City |
 | April 4th | [Contribution](https://github.com/AppFlowy-IO/AppFlowy/issues/8651#issuecomment-4196485888) | GitHub Comment | I made a comment on AppFlowy, to help the maintainers triage the issue |
+| April 30th | [Contribution](https://github.com/karakeep-app/karakeep/pull/2746) | Github Pull Request | I made a pull request to fix the html export issue of the project parakeep |
 
